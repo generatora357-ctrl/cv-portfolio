@@ -1,0 +1,3 @@
+git config --global user.name "generatora357-ctrl"
+git config --global user.email "generatora357@gmail.com"
+git config --global -l
